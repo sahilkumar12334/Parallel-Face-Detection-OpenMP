@@ -21,9 +21,3 @@ The project uses openCV in c++ to detect faces.<br><br>
 
 ### 1. [In Ubuntu](Instructions/Ubuntu/Ubuntu_Guide.md)
 ### 2. [In Windows](Instructions/Windows/Windows_Guide.md) <br><br>
-
-# Team Members - </br>
-### Kunal 2019085
-### Chirag Agrawal 2019233
-### Bhomik Sharma 2019226
-### Vasukumar Kotadiya 2019171 <br><br>
